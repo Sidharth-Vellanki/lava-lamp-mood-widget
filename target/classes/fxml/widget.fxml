@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<?import javafx.scene.layout.AnchorPane?>
-<?import javafx.scene.paint.Color?>
-<?import javafx.scene.shape.Circle?>
-
-<AnchorPane xmlns:fx="http://javafx.com/fxml" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: transparent;">
-    <Circle fx:id="lavaLampCircle" radius="50.0" fill="rgba(255, 0, 0, 0.5)" layoutX="300.0" layoutY="200.0" />
-</AnchorPane>
